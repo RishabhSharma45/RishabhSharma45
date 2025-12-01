@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rishabh Sharma 👋  
+### Java Developer | Angular | Spring Boot | SQL | JasperReports | Performance Testing (k6 + Grafana)
 
-<!--
-**RishabhSharma45/RishabhSharma45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently working as **GET at MPSEDC**, contributing to the **Sampada 2.0** project.  
+💻 Daily working with **Java | Spring Boot | Angular | SQL | Jasper | k6 | Grafana**  
+🎯 Goal for December: Build a razor-sharp full-stack + DSA profile on GitHub.
 
-Here are some ideas to get you started:
+## 🔥 Tech Stack    
+- **Backend:** Java, Spring Boot, REST APIs  
+- **Frontend:** Angular, JavaScript, HTML, CSS  
+- **Reporting:** JasperReports (JRXML)  
+- **Database:** MySQL, SQL  
+- **Performance:** k6, Grafana  
+- **Tools:** Postman, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Featured Repositories  
+- **Java Master Lab** – Daily Java sharpening  
+- **Spring Boot Powerhouse** – Microservices & APIs  
+- **Angular Daily Lab** – Daily Angular learning  
+- **DSA in Java** – December DSA sprint  
+- **SQL Pro Challenge** – Daily SQL tasks  
+- **Jasper Report Vault** – PDF templates & samples  
+- **k6-Performance-Lab** – Load testing scripts  
+
